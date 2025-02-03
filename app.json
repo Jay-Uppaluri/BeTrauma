@@ -15,7 +15,10 @@
     "ios": {
       "bundleIdentifier": "com.betrauma.betraumaapp",
       "supportsTablet": true,
-      "newArchEnabled": true
+      "newArchEnabled": true,
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -38,7 +41,10 @@
     },
     "extra": {
       "eas": {
-        "projectId": "c48150c6-13e1-45b1-b8f8-8a2284565ee8"
+        "projectId": "d740a3fc-99eb-4d0e-9572-ec24dc2aa036"
+      },
+      "router": {
+        "origin": false
       }
     }
   }

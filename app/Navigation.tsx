@@ -27,17 +27,17 @@ const Navigation = () => {
           </Text>
 
           <Text className='text-lg mb-6'>
-            Work to establish trust and safety: Sit down. Demonstrate active listening.
+           • Work to establish trust and safety: Sit down. Demonstrate active listening.
             Use non-threatening body language. Make sure the physical space feels safe and
             comfortable.
           </Text>
 
           <Text className='text-lg mb-6'>
-            Recognize the signs of re-traumatization or emotional distress.¹
+           • Recognize the signs of re-traumatization or emotional distress.¹
           </Text>
 
           <Text className='text-lg mb-6'>
-            Acknowledge that trauma or difficult experiences surrounding health care is common with a
+           • Acknowledge that trauma or difficult experiences surrounding health care is common with a
             statement like:
           </Text>
 
@@ -47,7 +47,7 @@ const Navigation = () => {
           </Text>
 
           <Text className='text-lg mb-4'>
-            Ask open-ended questions in a safe and sensitive manner, such as:
+           • Ask open-ended questions in a safe and sensitive manner, such as:
           </Text>
 
           <Text className='text-lg italic mb-2 ml-4'>
@@ -61,7 +61,7 @@ const Navigation = () => {
           </Text>
 
           <Text className='text-lg mb-4'>
-            If a patient discloses a trauma or difficult experiences, respond empathetically, for instance:
+           • If a patient discloses a trauma or difficult experiences, respond empathetically, for instance:
           </Text>
 
           <Text className='text-lg italic mb-2 ml-4'>"Thank you for trusting me with this."</Text>
@@ -88,21 +88,21 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-6'>
-          Hold space for your patient's emotions. Be present. Be nonjudgemental in your response.
+         • Hold space for your patient's emotions. Be present. Be nonjudgemental in your response.
         </Text>
 
         <Text className='text-lg mb-6'>
-          Stay attune to your own reactions and monitor for your own secondary trauma or distress. If necessary,
+         • Stay attune to your own reactions and monitor for your own secondary trauma or distress. If necessary,
           bring in support.
         </Text>
 
         <Text className='text-lg mb-6'>
-          Normalize that difficult experiences can impact one's health and stress response. (i.e. "We would
+         • Normalize that difficult experiences can impact one's health and stress response. (i.e. "We would
           expect anyone in your shoes to respond this way to what you have been through.")
         </Text>
 
         <Text className='text-lg mb-4'>
-          Empathize with patients using supportive statements, such as:
+         • Empathize with patients using supportive statements, such as:
         </Text>
 
         <Text className='text-lg font-bold mb-2 ml-4'>Naming:</Text>
@@ -154,7 +154,7 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-4'>
-          Inquire about patient's needs; do not assume, by asking questions like:
+         • Inquire about patient's needs; do not assume, by asking questions like:
         </Text>
 
         <Text className='text-lg italic mb-2 ml-4'>
@@ -168,7 +168,7 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-4'>
-          Build consensus on the next steps, for instance:
+         • Build consensus on the next steps, for instance:
         </Text>
 
         <Text className='text-lg italic mb-2 ml-4'>
@@ -179,7 +179,7 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-4'>
-          Build trust through transparency about limitations
+         • Build trust through transparency about limitations
         </Text>
 
         <Text className='text-lg italic mb-6 ml-4'>
@@ -201,7 +201,7 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-4'>
-          If necessary, ask the patient if you can share their experiences and plan of care with the rest
+         • If necessary, ask the patient if you can share their experiences and plan of care with the rest
           of the care team, by asking questions like:
         </Text>
 
@@ -218,7 +218,7 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-6'>
-          Consider patient safety and privacy. Be thoughtful whether it is necessary to document any
+         • Consider patient safety and privacy. Be thoughtful whether it is necessary to document any
           disclosures. Offer to record-block or to make notes private in the electronic health record.
           Reach out to your program director for guidance.
         </Text>
@@ -244,7 +244,7 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-4'>
-          Empower patient to strengthen existing support systems, by asking questions
+         • Empower patient to strengthen existing support systems, by asking questions
           like:
         </Text>
 
@@ -256,7 +256,7 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-4'>
-          If available, connect to peer support. For example:
+         • If available, connect to peer support. For example:
         </Text>
 
         <Text className='text-lg italic mb-6 ml-4'>
@@ -265,7 +265,7 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-4'>
-          If available, connect to hospital, community, and national resources, for
+         • If available, connect to hospital, community, and national resources, for
           instance:
         </Text>
 
@@ -294,7 +294,7 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-4'>
-          Define actionable steps to check–in with patient and care team about plan of care,
+         • Define actionable steps to check–in with patient and care team about plan of care,
           for instance:
         </Text>
 
@@ -306,21 +306,21 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-6'>
-          Incorporate the plan of care into your assessment and plan and make it a central
+         • Incorporate the plan of care into your assessment and plan and make it a central
           part of your daily thought process.
         </Text>
 
         <Text className='text-lg mb-4'>
-          Be transparent about any limitations to your ability to respond.
+         • Be transparent about any limitations to your ability to respond.
         </Text>
 
         <Text className='text-lg italic mb-6 ml-4'>
-          "I may not see you regularly throughout the day, but I am working closely
+         • "I may not see you regularly throughout the day, but I am working closely
           with the team to make sure we are doing our best to care for you."
         </Text>
 
         <Text className='text-lg mb-4'>
-          Get patient feedback on your plan and make feasible adjustments.
+         • Get patient feedback on your plan and make feasible adjustments.
         </Text>
 
         <Text className='text-lg italic mb-2 ml-4'>"Is it what you expected?"</Text>
@@ -341,7 +341,7 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-4'>
-          Empower patient to involve and engage their support system as
+         • Empower patient to involve and engage their support system as
           they transition out of the hospital.
         </Text>
 
@@ -352,13 +352,13 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-6'>
-          Collaborate with an interdisciplinary team and the patient to find a
+         • Collaborate with an interdisciplinary team and the patient to find a
           supportive healthcare provider who aligns with the patient's
           follow-up care goals.
         </Text>
 
         <Text className='text-lg mb-6'>
-          If possible, facilitate a smooth transition between the inpatient
+         • If possible, facilitate a smooth transition between the inpatient
           team and the follow-up provider.
         </Text>
       </ScrollView>
@@ -374,26 +374,30 @@ const Navigation = () => {
         </Text>
 
         <Text className='text-lg mb-6'>
-          Set aside time with the interdisciplinary care team to discuss successes and
+         • Set aside time with the interdisciplinary care team to discuss successes and
           areas for improvement regarding the patient's care plan.
         </Text>
 
         <Text className='text-lg mb-6'>
-          Acknowledge the impact of secondary trauma² and utilize available
+         • Acknowledge the impact of secondary trauma² and utilize available
           institutional resources to support the care team.
         </Text>
 
         <Text className='text-lg mb-6'>
-          Using insights gained from patient stories and experiences, feel empowered
+         • Using insights gained from patient stories and experiences, feel empowered
           to connect with institutional leaders or mentors to advocate for more
           trauma-informed institutional policies and processes.
         </Text>
 
         <Text className='text-lg mb-6'>
-          Most importantly, take time to reflect and prioritize your mental health.
+         • Most importantly, take time to reflect and prioritize your mental health.
           Lean on your support system and engage in your preferred coping strategies
           to manage your own work-related stress or distress.
         </Text>
+
+        <Text className='text-sm italic mb-10'>
+        ² chronic fatigue, disturbing thoughts, poor concentration, emotional detachment, avoidance, absenteeism, and physical illness.
+          </Text>
       </ScrollView>
     );
   }
