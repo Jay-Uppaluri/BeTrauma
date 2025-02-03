@@ -17,7 +17,10 @@
       "supportsTablet": true,
       "newArchEnabled": true,
       "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
+        "ITSAppUsesNonExemptEncryption": false,
+        "UIRequiresFullScreen": true,
+        "UIStatusBarHidden": false,
+        "UIViewControllerBasedStatusBarAppearance": true
       }
     },
     "android": {

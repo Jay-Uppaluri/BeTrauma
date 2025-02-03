@@ -417,7 +417,7 @@ const Navigation = () => {
             className='bg-[#8544B8] w-28 items-center justify-center rounded-full mt-4 mb-6' 
             onPress={() => router.back()}
           >
-            <Text className='text-background py-3'>Go Back</Text>
+            <Text className='text-background py-3'>Back</Text>
           </TouchableOpacity>
           
           {renderInsightContent()}
